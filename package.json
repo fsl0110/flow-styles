@@ -2,7 +2,7 @@
   "name": "flow-styles",
   "version": "0.0.1",
   "description": "A Sass-Based Atomic CSS Library",
-  "author": "Frank Simon Lechner",
+  "author": "fsl0110",
   "license": "ISC",
   "main": "src/index.scss",
   "private": false,
